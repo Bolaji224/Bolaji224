@@ -1,22 +1,206 @@
-<h1>Hi 👋, I'm software developer</h1>
-<p>A passionate frontend developer from Gomycode</p>
-<h2>🚀 Languages and Tools I Use</h2>
-<p><a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="42" height="42" /></a>
-<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="42" height="42" /></a>
-<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="42" height="42" /></a>
-<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="42" height="42" /></a>
-<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="42" height="42" /></a>
-<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="42" height="42" /></a>
-<a target="_blank" href="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="42" height="42" /></a>
-<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="42" height="42" /></a>
-<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="42" height="42" /></a>
-<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="42" height="42" /></a>
-<a target="_blank" href="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="42" height="42" /></a></p>
-<h2>⚡️ Where to find me</h2>
-<p><a target="_blank" href="https://twitter.com/bolajiMiracle1" style="display: inline-block;"><img src="https://img.shields.io/badge/twitter-x?style=for-the-badge&logo=x&logoColor=white&color=%230f1419" alt="twitter" /></a>
-<a target="_blank" href="https://www.linkedin.com/in/Chukwuemeka Ifechukwu" style="display: inline-block;"><img src="https://img.shields.io/badge/linkedin-logo?style=for-the-badge&logo=linkedin&logoColor=white&color=%230a77b6" alt="linkedin" /></a>
-<a target="_blank" href="https://www.instagram.com/bolaji_miracle" style="display: inline-block;"><img src="https://img.shields.io/badge/instagram-logo?style=for-the-badge&logo=instagram&logoColor=white&color=%23F35369" alt="instagram" /></a></p>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=Bolaji224&show_icons=true&locale=en" alt="Bolaji224" /></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Bolaji224&" alt="Bolaji224" /></p>
-<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=Bolaji224&show_icons=true&locale=en&layout=compact" alt="Bolaji224" /></p>
-<p><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Bolaji224" alt="Bolaji224" /></a></p>
+<div align="center">
+
+# Hi, I'm Bolaji Miracle 👋
+
+### Full Stack Software Developer | Laravel • React • Next.js • Node.js
+
+I build scalable web applications that solve real business problems—from fintech and
+FIRS e-Invoicing compliance platforms to multi-vendor marketplaces, hospitality
+systems, and investment platforms.
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-Coming_Soon-000000?style=flat-square&logo=vercel&logoColor=white)](#)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](YOUR_LINKEDIN)
+[![Email](https://img.shields.io/badge/Email-Contact-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL)
+
+| 10+ | 5+ | 4 | Full Stack |
+|:---:|:---:|:---:|:---:|
+| Production Projects | Business Platforms | Industries | Frontend & Backend |
+
+</div>
+
+---
+
+# About Me
+
+I'm a Full Stack Software Developer passionate about building modern applications that
+help businesses automate operations and improve user experience.
+
+My work spans fintech, tax compliance, e-commerce, hospitality, and marketplace
+platforms. I enjoy transforming complex business workflows into clean, scalable
+software using Laravel, React, Next.js, Node.js, and modern web technologies.
+
+I care about writing maintainable code, designing intuitive user experiences, and
+building products that can grow with businesses.
+
+### What I Enjoy Building
+
+- 💳 Fintech Applications
+- 🏛️ Government Compliance Platforms
+- 🛒 Multi-vendor Marketplaces
+- 🏨 Hospitality Systems
+- 📊 Admin Dashboards
+- 🔐 Authentication Systems
+- ⚡ REST APIs
+
+---
+
+# Featured Projects
+
+## 💳 C-HubRegTech — FIRS e-Invoicing Compliance Platform
+
+**Problem**
+
+Nigerian businesses need to comply with the Federal Inland Revenue Service (FIRS)
+electronic invoicing regulations while reducing manual invoice processing.
+
+**Contributions**
+
+- Built a complete Laravel-powered compliance platform
+- Integrated the eTranzact NRS API for FIRS invoice submission
+- Developed bulk CSV invoice uploads
+- Implemented TIN verification
+- Built token wallet & Paystack payment integration
+- Added IRN tracking and invoice status monitoring
+- Supported B2B, B2C and B2G invoice workflows
+
+**Tech**
+
+Laravel • PHP • MySQL • REST APIs • Bootstrap • JavaScript • Paystack
+
+Private Repository
+
+---
+
+## 🛒 Multi-Vendor Marketplace (Jumia Inspired)
+
+**Problem**
+
+Businesses needed a scalable marketplace where vendors could manage products while
+customers enjoy a smooth shopping and delivery experience.
+
+**Contributions**
+
+- Vendor product management
+- Customer shopping experience
+- Shopping cart & checkout
+- Google Maps integration
+- Delivery rider tracking
+- Secure authentication
+- Order management dashboard
+
+**Tech**
+
+Laravel • React • MySQL • Google Maps API • REST APIs
+
+Private Repository
+
+---
+
+## 🏨 Hotel Booking & Management Platform
+
+**Problem**
+
+Hotels needed a modern platform to showcase rooms, accept bookings, and improve online
+visibility.
+
+**Contributions**
+
+- Responsive booking interface
+- Room management
+- Customer reservation flow
+- Mobile-first UI
+- Admin dashboard
+
+**Tech**
+
+Laravel • Bootstrap • JavaScript • MySQL
+
+Private Repository
+
+---
+
+## 📈 Investment & Financial Platforms
+
+Developed multiple investment and financial service websites featuring:
+
+- Secure authentication
+- Investment dashboards
+- Responsive landing pages
+- User account management
+- Contact & enquiry systems
+
+Tech:
+
+React • Next.js • Laravel • Node.js
+
+---
+
+# Tech Stack
+
+## Frontend
+
+- React
+- Next.js
+- JavaScript
+- TypeScript
+- HTML5
+- CSS3
+- Bootstrap
+- Tailwind CSS
+
+## Backend
+
+- Laravel
+- PHP
+- Node.js
+- Express.js
+
+## Database
+
+- MySQL
+- MongoDB
+
+## APIs
+
+- REST APIs
+- Paystack API
+- Google Maps API
+- eTranzact NRS API
+
+## Tools
+
+- Git
+- GitHub
+- Postman
+- VS Code
+- Figma
+
+---
+
+# Current Focus
+
+- 🇳🇬 FIRS e-Invoicing Solutions
+- Laravel Architecture
+- React & Next.js Applications
+- Marketplace Platforms
+- Fintech Products
+- Scalable REST APIs
+- Full Stack Development
+
+---
+
+# Contact
+
+💼 LinkedIn: YOUR_LINKEDIN
+
+📧 Email: YOUR_EMAIL
+
+🌐 Portfolio: Coming Soon
+
+🐙 GitHub: YOUR_GITHUB
+
+<div align="center">
+
+Open to Remote • Full-time • Contract • Freelance Opportunities
+
+</div>
