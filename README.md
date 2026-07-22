@@ -2,19 +2,17 @@
 
 # Hi, I'm Bolaji Miracle 👋
 
-### Full Stack Software Developer | Laravel • React • Next.js • Node.js
+### Full-Stack Software Engineer | RegTech & Financial Systems | Laravel • React • Next.js • Node.js
 
-I build scalable web applications that solve real business problems—from fintech and
-FIRS e-Invoicing compliance platforms to multi-vendor marketplaces, hospitality
-systems, and investment platforms.
+I build scalable software that helps businesses automate financial operations, streamline compliance, and solve complex business challenges. My work spans Regulatory Technology (RegTech), fintech, enterprise applications, marketplaces, and modern SaaS platforms.
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-Coming_Soon-000000?style=flat-square&logo=vercel&logoColor=white)](#)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](YOUR_LINKEDIN)
-[![Email](https://img.shields.io/badge/Email-Contact-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-000000?style=flat-square&logo=vercel&logoColor=white)](https://portfolio1-9aqv.vercel.app/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bolajimiracle)
+[![Email](https://img.shields.io/badge/Email-Contact-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:bolajimiracle6@gmail.com)
 
-| 10+ | 5+ | 4 | Full Stack |
+| 10+ | 5+ | RegTech | Full Stack |
 |:---:|:---:|:---:|:---:|
-| Production Projects | Business Platforms | Industries | Frontend & Backend |
+| Production Projects | Business Platforms | Financial Systems | Frontend & Backend |
 
 </div>
 
@@ -22,114 +20,100 @@ systems, and investment platforms.
 
 # About Me
 
-I'm a Full Stack Software Developer passionate about building modern applications that
-help businesses automate operations and improve user experience.
+I'm a Full-Stack Software Engineer passionate about building secure, scalable software that solves real business problems.
 
-My work spans fintech, tax compliance, e-commerce, hospitality, and marketplace
-platforms. I enjoy transforming complex business workflows into clean, scalable
-software using Laravel, React, Next.js, Node.js, and modern web technologies.
+My primary focus is **Regulatory Technology (RegTech)** and **financial systems**, where I build applications that automate compliance, integrate with government and third-party APIs, and simplify complex operational workflows.
 
-I care about writing maintainable code, designing intuitive user experiences, and
-building products that can grow with businesses.
+Alongside RegTech, I have experience developing enterprise marketplaces, workforce platforms, fintech products, and SaaS applications using Laravel, React, Next.js, Node.js, and modern web technologies.
 
-### What I Enjoy Building
+I enjoy designing reliable software architectures, writing clean maintainable code, and building products that create measurable business value.
 
-- 💳 Fintech Applications
-- 🏛️ Government Compliance Platforms
-- 🛒 Multi-vendor Marketplaces
-- 🏨 Hospitality Systems
+---
+
+# What I Build
+
+- 🏛️ Regulatory Technology (RegTech)
+- 💳 Financial & FinTech Applications
+- 📄 e-Invoicing & Tax Compliance Platforms
+- 🛍️ Enterprise Marketplace Solutions
+- 👥 Workforce & Service Platforms
 - 📊 Admin Dashboards
-- 🔐 Authentication Systems
-- ⚡ REST APIs
+- 🔐 Authentication & Authorization
+- ⚡ REST APIs & Third-party Integrations
 
 ---
 
 # Featured Projects
 
-## 💳 C-HubRegTech — FIRS e-Invoicing Compliance Platform
+## 🏛️ C-HubRegTech — FIRS e-Invoicing Compliance Platform
 
-**Problem**
+Helping Nigerian businesses comply with FIRS electronic invoicing requirements through automation.
 
-Nigerian businesses need to comply with the Federal Inland Revenue Service (FIRS)
-electronic invoicing regulations while reducing manual invoice processing.
+### Highlights
 
-**Contributions**
-
-- Built a complete Laravel-powered compliance platform
-- Integrated the eTranzact NRS API for FIRS invoice submission
-- Developed bulk CSV invoice uploads
-- Implemented TIN verification
-- Built token wallet & Paystack payment integration
-- Added IRN tracking and invoice status monitoring
-- Supported B2B, B2C and B2G invoice workflows
+- Government API integrations
+- Invoice validation & submission
+- TIN verification
+- Bulk invoice processing
+- IRN tracking
+- Token wallet & Paystack integration
+- B2B, B2C & B2G workflows
 
 **Tech**
 
-Laravel • PHP • MySQL • REST APIs • Bootstrap • JavaScript • Paystack
+Laravel • PHP • MySQL • REST APIs • Bootstrap • Paystack
 
-Private Repository
+_Private Repository_
 
 ---
 
-## 🛒 Multi-Vendor Marketplace (Jumia Inspired)
+## 🛒 Multi-Vendor Marketplace
 
-**Problem**
+A scalable marketplace enabling vendors to sell products while customers enjoy a seamless shopping experience.
 
-Businesses needed a scalable marketplace where vendors could manage products while
-customers enjoy a smooth shopping and delivery experience.
+### Highlights
 
-**Contributions**
-
-- Vendor product management
+- Vendor dashboards
 - Customer shopping experience
-- Shopping cart & checkout
+- Secure authentication
+- Checkout & order management
 - Google Maps integration
-- Delivery rider tracking
-- Secure authentication
-- Order management dashboard
+- Delivery tracking
 
 **Tech**
 
-Laravel • React • MySQL • Google Maps API • REST APIs
+Laravel • React • MySQL • REST APIs • Google Maps API
 
-Private Repository
+_Private Repository_
 
 ---
 
-## 🏨 Hotel Booking & Management Platform
+## 👥 Workason — Service Marketplace Platform
 
-**Problem**
+A modern workforce marketplace connecting clients with skilled professionals through a seamless hiring and project management experience.
 
-Hotels needed a modern platform to showcase rooms, accept bookings, and improve online
-visibility.
+### Highlights
 
-**Contributions**
-
-- Responsive booking interface
-- Room management
-- Customer reservation flow
-- Mobile-first UI
-- Admin dashboard
+- Service provider onboarding and profile management
+- Project posting and job matching workflows
+- Secure authentication and role-based access
+- Real-time messaging and collaboration features
+- Responsive dashboards for clients and professionals
+- Scalable architecture designed for marketplace growth
 
 **Tech**
 
-Laravel • Bootstrap • JavaScript • MySQL
+Laravel • React • Node.js • REST APIs • MySQL
 
-Private Repository
+_Private Repository_
 
 ---
 
-## 📈 Investment & Financial Platforms
+## 📈 Financial & Investment Platforms
 
-Developed multiple investment and financial service websites featuring:
+Built modern financial platforms featuring secure authentication, user dashboards, investment workflows, and responsive customer experiences.
 
-- Secure authentication
-- Investment dashboards
-- Responsive landing pages
-- User account management
-- Contact & enquiry systems
-
-Tech:
+**Tech**
 
 React • Next.js • Laravel • Node.js
 
@@ -137,70 +121,54 @@ React • Next.js • Laravel • Node.js
 
 # Tech Stack
 
-## Frontend
+### Frontend
 
-- React
-- Next.js
-- JavaScript
-- TypeScript
-- HTML5
-- CSS3
-- Bootstrap
-- Tailwind CSS
+React • Next.js • JavaScript • TypeScript • HTML5 • CSS3 • Bootstrap • Tailwind CSS
 
-## Backend
+### Backend
 
-- Laravel
-- PHP
-- Node.js
-- Express.js
+Laravel • PHP • Node.js • Express.js
 
-## Database
+### Databases
 
-- MySQL
-- MongoDB
+MySQL • MongoDB
 
-## APIs
+### APIs & Integrations
 
-- REST APIs
-- Paystack API
-- Google Maps API
-- eTranzact NRS API
+REST APIs • eTranzact NRS API • Paystack API • Google Maps API
 
-## Tools
+### Tools
 
-- Git
-- GitHub
-- Postman
-- VS Code
-- Figma
+Git • GitHub • Postman • VS Code • Figma
 
 ---
 
 # Current Focus
 
-- 🇳🇬 FIRS e-Invoicing Solutions
-- Laravel Architecture
-- React & Next.js Applications
-- Marketplace Platforms
-- Fintech Products
-- Scalable REST APIs
-- Full Stack Development
+- 🏛️ Regulatory Technology (RegTech)
+- 💳 Financial Software Engineering
+- 📄 Tax & e-Invoicing Solutions
+- ⚡ Enterprise API Integrations
+- 🚀 SaaS Products
+- 🌍 Scalable Full-Stack Applications
 
 ---
 
-# Contact
+# Let's Connect
 
-💼 LinkedIn: YOUR_LINKEDIN
+💼 LinkedIn  
+https://www.linkedin.com/in/bolajimiracle
 
-📧 Email: YOUR_EMAIL
+🌐 Portfolio  
+https://portfolio1-9aqv.vercel.app/
 
-🌐 Portfolio: Coming Soon
-
-🐙 GitHub: YOUR_GITHUB
+📧 Email  
+bolajimiracle6@gmail.com
 
 <div align="center">
 
-Open to Remote • Full-time • Contract • Freelance Opportunities
+### Open to Remote • Full-Time • Contract • Freelance Opportunities
+
+*"Building software that powers compliant, secure, and scalable businesses."*
 
 </div>
