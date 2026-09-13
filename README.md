@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi, I'm Chukwuemeka Miracle 👋
+# Hi, I'm Chukwuemeka Ifechukwu  👋
 
 ### Full-Stack Software Engineer | RegTech & Financial Systems | Laravel • React • Next.js • Node.js
 
